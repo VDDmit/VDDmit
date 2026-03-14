@@ -1,14 +1,3 @@
-# 💫 About Me:
-I believe that with time and persistence, anything is achievable. I’m committed to learning and growing as a developer every day 🚀  
-
-Hi, I’m Daniil Voropaev — an aspiring Backend Developer focused on building secure and scalable applications with Python & FastAPI.  
-
-I work as a freelancer, developing PoC projects and real commercial solutions for clients 💼, while continuously strengthening my engineering skills in backend development.  
-
-My main stack includes Python, FastAPI, PostgreSQL, Docker, and messaging systems, and I also expand my expertise by studying Java and Spring Boot.  
-
-I enjoy turning ideas into clean, reliable, and production-ready systems ⚙️.
-
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vddmit)
